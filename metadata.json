@@ -1,0 +1,6 @@
+{
+  "name": "ReadFlow - 英語長文読解マスター",
+  "description": "AIが毎回新しい英文と設問を自動生成する英語長文読解アプリ。3段階+難易度別演習、キーセンテンスの赤字ハイライト、詳細解説、弱点分析、過去の正答率グラフを完備。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
